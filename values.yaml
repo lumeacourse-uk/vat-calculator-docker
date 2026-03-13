@@ -1,2 +1,2 @@
-image: lumeaadocker/vat:<+pipeline.sequenceId>
+image: lumeadocker/vat:<+pipeline.sequenceId>
 replicas: 1
