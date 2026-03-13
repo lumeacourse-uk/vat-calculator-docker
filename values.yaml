@@ -1,2 +1,2 @@
 image: lumeadocker/vat:<+pipeline.sequenceId>
-replicas: 4
+replicas: 8
